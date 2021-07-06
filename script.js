@@ -135,7 +135,7 @@ else if ( checkArrows() == 2 || checkDiagonalRight() == 2 || checkColumn() == 2 
   document.getElementById('Player2').style.display = "block" ;
   document.getElementById('btnP1').style.display = "block" ;
 }
-else if ( player == 9 ) {
+else if ( player == 10 ) {
  document.getElementById('Equal').style.display = "block";
  document.getElementById('btnReset').style.display = "block" ;
 }
