@@ -1,0 +1,46 @@
+#titlu {
+  padding: 10px ;
+  text-align: center;
+  border:2px solid white ;
+}
+body {
+  background-color:rgb( 14, 92, 110 );
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+td {
+  width: 100px ;
+  height: 100px ;
+
+}
+.vertical {
+  border-left:  5px solid black ;
+  border-right: 5px solid black ;
+}
+.orizontal {
+ border-bottom: 5px solid black ;
+}
+button {
+  width: 40%;
+  margin-left: 30%;
+  margin-right: 30%
+}
+.coloana {
+  font-size: 50px ;
+text-align: center;
+}
+#Player1 , #Player2 {
+  font-size: 50px ;
+  text-align: center;
+  color: red ;
+  border: 3px solid white ;
+  padding-top: 20px ;
+  padding-bottom: 20px ;
+}
+#btnP1 , #btnP2 {
+  border-radius: 12px ;
+  margin-top: 10px ;
+  font-size: 20px ;
+}
